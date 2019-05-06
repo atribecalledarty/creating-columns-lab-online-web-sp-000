@@ -49,13 +49,13 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column-1{
   display:inline-block;
-  width: 33%;
+  width: 31%;
   vertical-align: top;
   /*width: 20%;*/
 }
 .column-2{
   display:inline-block;
-  width: 66%;
+  width: 62%;
   vertical-align: top;
   /*width: 20%;*/
 }
